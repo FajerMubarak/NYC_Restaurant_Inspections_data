@@ -2,6 +2,7 @@
 ---
 ## Introduction 
 New York City is home to thousands of restaurants inspected annually by the Department of Health and Mental Hygiene (DOHMH). This project analyzes DOHMH inspection records from 2016–2026 to understand how often Critical Violations occur, what drives them, and where NYC's food-safety efforts should focus next.
+
 ---
 ## NYC DOHMH & Scoring System
 The **NYC DOHMH** conducts strict, unannounced field inspections of restaurants to enforce food safety codes and protect public health. 
