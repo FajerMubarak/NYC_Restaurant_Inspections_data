@@ -5,14 +5,14 @@ New York City is home to thousands of restaurants inspected annually by the Depa
 
 ---
 ## NYC DOHMH & Scoring System
-The **NYC DOHMH** conducts strict, unannounced field inspections of restaurants to enforce food safety codes and protect public health. 
+The **NYC DOHMH** (the New York City Department of Health and Mental Hygieneconducts) strict, unannounced field inspections of restaurants to enforce food safety codes and protect public health. 
 * During inspections, observed failures are converted into **sanitary penalty points**.
 * Cumulative points directly determine the restaurant's public letter grade (**Fewer points = Cleaner kitchen**):
   * **Grade A :** 0 – 13 pts
   * **Grade B :** 14 – 27 pts
   * **Grade C :** 28+ pts
 ---
- ## key finding
+ ## Key finding
 -  Critical Violations are not a small issue — they're the biggest factor behind low hygiene scores, raising penalty scores by over 35%
 - Food safety issues aren't limited to one area — all five boroughs fall within a close 51%–56% range for Critical Violations
 - Critical violations jumped to their highest point in 2022 (52.4%), then dropped and leveled off around 49.6% in 2023–2025. The data doesn't show why this happened, so it's worth looking into further.
