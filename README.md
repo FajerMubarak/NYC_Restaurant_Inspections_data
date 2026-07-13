@@ -6,7 +6,7 @@ New York City is home to thousands of restaurants inspected annually by the Depa
 ---
 ## Data Source
 The dataset used in this project is sourced from the official **NYC Open Data** portal:
-[NYC Open Data - DOHMH Restaurant Inspections](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/data_preview)
+[NYC Open Data - DOHMH Restaurant Inspections]((https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data))
 
 ---
 ## NYC DOHMH & Scoring System
